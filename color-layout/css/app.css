@@ -1,0 +1,27 @@
+*, p, h1, h2, h3, h4, h5, h6 {
+	color: black;
+	font-family: Arial !important;
+}
+
+/* typography */
+
+p {
+
+	
+}
+
+h2 {
+	font-size: 28px;
+	
+}
+
+#wrapper header h2 {
+	padding-right: 5%;
+	text-align: right;
+}
+
+#wrapper header {
+	height: 50px;
+	width: 100%;
+}
+
